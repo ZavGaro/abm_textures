@@ -1,0 +1,1 @@
+default:junglegrass inventory default_junglegrass_small.png
