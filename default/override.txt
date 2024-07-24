@@ -1,1 +1,5 @@
+default:brick top default_brick_vertical.png
+default:brick bottom default_brick_vertical.png
+default:brick left default_brick_second.png
+default:brick front default_brick_second.png
 default:junglegrass inventory default_junglegrass_small.png
